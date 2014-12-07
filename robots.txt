@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://sizzlingdishes.github.io/sitemap.xml 
