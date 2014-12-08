@@ -4,7 +4,7 @@
   <title><![CDATA[Sizzling Dishes]]></title>
   <link href="http://sizzlingdishes.github.io/atom.xml" rel="self"/>
   <link href="http://sizzlingdishes.github.io/"/>
-  <updated>2014-12-07T20:58:35-06:00</updated>
+  <updated>2014-12-07T21:17:36-06:00</updated>
   <id>http://sizzlingdishes.github.io/</id>
   <author>
     <name><![CDATA[Afreen]]></name>
@@ -20,7 +20,9 @@
     <id>http://sizzlingdishes.github.io/blog/2014/11/14/dessert-fruit-pizza</id>
     <content type="html"><![CDATA[<div>
 <p>Dessert Fruit Pizza is a simple and delicious dessert.A perfect dessert for summer parties or any occasion,made with soft sugar cookie crust and topped with a cream cheese and fresh fruits.Enjoy this refreshing attractive pizza.</p>
-<p><iframe src="//www.youtube.com/embed/LbZRo7MRDso" frameborder="0" width="50%" height="300"></iframe></p>
+<p><iframe src="//www.youtube.com/embed/LbZRo7MRDso" frameborder="0" width="100%" height="300"></iframe></p>
+    <!--
+    width="50%" height="300"-->
 </div>
 ]]></content>
   </entry>
