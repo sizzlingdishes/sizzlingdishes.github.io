@@ -4,7 +4,7 @@
   <title><![CDATA[Sizzling Dishes]]></title>
   <link href="http://sizzlingdishes.github.io/atom.xml" rel="self"/>
   <link href="http://sizzlingdishes.github.io/"/>
-  <updated>2015-06-23T13:16:54-05:00</updated>
+  <updated>2015-06-23T13:20:02-05:00</updated>
   <id>http://sizzlingdishes.github.io/</id>
   <author>
     <name><![CDATA[Afreen]]></name>
@@ -22,7 +22,7 @@
     <p>
        Chicken puff a perfect snack ,stuffed with delicious chicken mixture.
 </p
-    <p><img src="http://sizzlingdishes.github.io/images/puffshell.jpg"/></p>
+    <p><img src="http://sizzlingdishes.github.io/images/puffshell.jpg "/></p>
        <p><img src="http://sizzlingdishes.github.io/images/CHICK111.jpg"/></p>
        <p><img src="http://sizzlingdishes.github.io/images/CHICK222.jpg"/></p>
 
