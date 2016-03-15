@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://sizzlingdishes.github.io/blog/2016/03/16/chapli-kabab/</loc>
+    <lastmod>2016-03-16T19:23:43-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://sizzlingdishes.github.io/blog/2016/03/07/pasta-with-coriander-pesto/</loc>
     <lastmod>2016-03-07T15:38:29-06:00</lastmod>
     <priority>0.8</priority>
@@ -662,55 +667,55 @@
   </url>
   <url>
     <loc>http://sizzlingdishes.github.io/blog/MainCourse/</loc>
-    <lastmod>2016-03-07T14:24:46-06:00</lastmod>
+    <lastmod>2016-03-15T16:14:34-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://sizzlingdishes.github.io/blog/archives/</loc>
-    <lastmod>2016-03-07T14:24:46-06:00</lastmod>
+    <lastmod>2016-03-15T16:14:34-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://sizzlingdishes.github.io/blog/Dessert/</loc>
-    <lastmod>2016-03-07T14:24:46-06:00</lastmod>
+    <lastmod>2016-03-15T16:14:34-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://sizzlingdishes.github.io/blog/Appetizers/</loc>
-    <lastmod>2016-03-07T14:24:46-06:00</lastmod>
+    <lastmod>2016-03-15T16:14:34-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://sizzlingdishes.github.io/blog/Smoothies/</loc>
-    <lastmod>2016-03-07T14:24:46-06:00</lastmod>
+    <lastmod>2016-03-15T16:14:34-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://sizzlingdishes.github.io/blog/VeggieDelights/</loc>
-    <lastmod>2016-03-07T14:24:46-06:00</lastmod>
+    <lastmod>2016-03-15T16:14:34-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://sizzlingdishes.github.io/blog/Video/</loc>
-    <lastmod>2016-03-07T14:24:46-06:00</lastmod>
+    <lastmod>2016-03-15T16:14:34-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://sizzlingdishes.github.io/</loc>
-    <lastmod>2016-03-07T14:24:46-06:00</lastmod>
+    <lastmod>2016-03-15T16:14:34-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://sizzlingdishes.github.io/search.html</loc>
-    <lastmod>2016-03-07T14:24:46-06:00</lastmod>
+    <lastmod>2016-03-15T16:14:34-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
